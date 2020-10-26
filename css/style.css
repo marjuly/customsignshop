@@ -1,0 +1,32 @@
+body{
+  color: #e3e7ea;
+  background-color: #455a64;
+  font-family: 'Montserrat', sans-serif;
+}
+.btn{
+  background-color: #00c3b1;
+  border-radius: 70px;
+  margin-left: 800px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-bottom: 205px;
+}
+h1{
+  color: #ffffff;
+  text-align: center;
+  font-size: 72px;
+  font-weight: 500;
+  margin-top: 125px;
+  margin-bottom: 50px;
+}
+.space{
+  height: 40px;
+  width: 100%;
+  background-color: #e3e7ea;
+}
+.form-control{
+  height: 50px;
+}
+#exampleInputName, label, .btn{
+  font-size: 40px;
+}
